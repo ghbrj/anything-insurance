@@ -1,0 +1,40 @@
+---
+title: "Anything Insurance"
+format:
+  html:
+    toc: true
+    embed-resources: true
+---
+
+The idea is for this page to be a somewhat organized list of resources related to the P&C insurance world, mostly for my own benefit and to others, if useful.
+
+# Insurance Industry 
+
+Resources about the insurance landscape, including products, external and internal environment, risks, trends, etc. 
+
+## News
+
+- Canadian Underwriter
+- Institute of Catastrophic Loss Reduction (ICLR)
+- Portail de l'assurance
+- Insurance Business Mag
+- 
+
+## Broker Distribution
+
+- Smythecpa - Canadian Insurance Brokerage Industry Update
+
+# Data Sources
+
+- [Open Data Society](https://www.opendatasociety.ca) Communauté canadienne des données ouvertes
+
+# Actuarial-related
+
+
+# Innovation
+
+## Design 
+
+- Nielson Norman Group 
+
+
